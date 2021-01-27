@@ -79,7 +79,7 @@ while game:
                         print("gratulerer du løste myssteriet, Jonas var morderen.")
                         game=False
                     if gjett==2:
-                        print("Du tapte, prøv å spille på nytt")  
+                        print("Du tapte, prøv å spille på nytt")
             if valg3==4: #vil intervjue Petter som person 2
                 valg2=intervju2()   
                 if valg2==1: #velger å stille spørsmålet: hvor var du kl 12 en 5.november?, til Petter
@@ -199,7 +199,7 @@ while game:
                     if gjett==1: #Gjetter Jonas
                         print("gratulerer du løste myssteriet, Jonas var morderen.")
                         game=False
-                    if gjett==2:
+                    if gjett==2:  
                         print("Du tapte, prøv å spille på nytt") 
            if valg3==4: #vil intervjue Petter som person 2
                 valg2=intervju2()   
